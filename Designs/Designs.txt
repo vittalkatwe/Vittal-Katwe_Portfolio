@@ -1,0 +1,13 @@
+Figma Designs
+
+1. Login Page (First Design) - https://www.figma.com/proto/TTU8OjgZLvzJq5bWsKYeyD/Untitled?node-id=16-2&t=9QOrwmBH8xEl91Vj-1
+2. Landing Page (Laundry App) - https://www.figma.com/design/Ywj041TuyMweonuGCJq6Mo/Untitled?node-id=1-33&t=9QOrwmBH8xEl91Vj-1
+
+
+
+Website and Component Design 
+
+1. A Laundry Website (Using No-Code) - https://www.mixedwash.in/
+2. A Website for Algorithm Visualisation - https://learnwhilelearning.in/
+3. 3D Metallic Card - https://drive.google.com/file/d/1v9YPACVwRrSDZuZNiKr0RP__cOI-y40Q/view?usp=sharing
+
